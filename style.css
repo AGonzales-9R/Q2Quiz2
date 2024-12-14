@@ -1,0 +1,82 @@
+* {
+
+}
+
+
+html {
+	height: 100%;
+}
+
+/*style for body*/
+body {
+	color: white;
+	font-family: "Rubik", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+  	min-height: 100%;
+  	display: flex;
+  	flex-direction: column;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQih3nYE_J-ZtOpMt8q-Vo8H27trx_yJ3uUrg&s);
+}
+
+/*style for h2*/
+h2 {
+	text-align: center;
+}
+
+/*style for container*/
+.container {
+	background-color: black;
+}
+
+/*style for anchor*/
+a {
+    color: #0582CA;
+}
+
+/*style for footer*/
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 7.5px;
+    margin-top: auto;
+}
+
+p {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+img {
+	width: 50%;
+}
+
+.btn {
+	background-color: #0582CA;
+	color: black;
+}
+
+.nav-link {
+	color: #0582CA;
+}
+
+.carousel {
+	width: 70%;
+}
+
+.p2 {
+	text-align: justify;
+	font-size: 20px;
+}
+
+.icons {
+	width: 7%;
+}
+
+.refrigerator {
+	font-size: 20px;
+}
